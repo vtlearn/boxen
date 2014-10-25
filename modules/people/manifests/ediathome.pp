@@ -1,3 +1,3 @@
 class people::ediathome {
-	puts "ediathome people running"
+	notify { 'class people::ediathome declared': }
 }
