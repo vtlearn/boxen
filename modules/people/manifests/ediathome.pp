@@ -3,6 +3,5 @@ class people::ediathome {
 		'youtube-dl': ;
 		'tree': ;
 		'wget': ;
-		'dropbox': ;
 	}
 }
