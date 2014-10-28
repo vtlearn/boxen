@@ -77,6 +77,23 @@ node default {
 
   # basic software stuff
   include dropbox
+  include textmate::textmate2::release
+  include alfred
+  include chrome
+  include firefox
+  include iterm2::stable
+  include onepassword
+  include postgresapp
+  include python
+  include skype
+  include steam
+  include toggl
+  include tunnelblick
+  include transmit
+  include tor
+  include vagrant
+  include virtualbox
+  include vlc
 
   # common, useful packages
   package {
