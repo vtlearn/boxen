@@ -11,7 +11,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-dropbox
   specs:
-    dropbox (1.0.0)
+    dropbox (1.4.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-foreman
@@ -106,7 +106,7 @@ GITHUBTARBALL
 DEPENDENCIES
   boxen (= 3.7.0)
   dnsmasq (= 2.0.0)
-  dropbox (= 1.0.0)
+  dropbox (= 1.4.1)
   foreman (= 1.2.0)
   gcc (= 2.2.0)
   git (= 2.5.0)
