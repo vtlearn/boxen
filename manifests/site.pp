@@ -93,7 +93,7 @@ node default {
   include transmit
   include tor
   include vagrant
-  include virtualbox
+#  include virtualbox
   include vlc
 
   # common, useful packages

@@ -82,7 +82,7 @@ github "tor",         "1.0.1"
 github "tunnelblick", "1.0.6"
 github "transmit",    "1.0.2"
 github "vagrant",     "3.0.9"
-github "virtualbox",  "1.0.11"
+# github "virtualbox",  "1.0.11"
 github "vlc",         "1.1.0"
 github "zsh",         "1.0.0"
 
