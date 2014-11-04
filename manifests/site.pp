@@ -85,6 +85,7 @@ node default {
   include onepassword
   include postgresapp
   include python
+  include nmap
   include skype
   include steam
   include toggl

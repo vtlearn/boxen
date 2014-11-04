@@ -12,7 +12,7 @@ class people::ediathome {
   include osx::finder::unhide_library
   include osx::finder::enable_quicklook_text_selection
   include osx::software_update
-  
+
   class { 'osx::global::key_repeat_delay':
     delay => 10
   }
@@ -22,6 +22,9 @@ class people::ediathome {
   class { 'osx::dock::icon_size':
     size => 36
   }
-  
+
+  # include apps
+  include zsh
+
   notify { 'class people::ediathome declared': }
 }
