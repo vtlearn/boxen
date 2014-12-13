@@ -4,7 +4,7 @@ class people::ediathome {
   include osx::global::enable_standard_function_keys
   include osx::global::expand_print_dialog
   include osx::global::expand_save_dialog
-  include osx::global::disable_autocorrect
+#  include osx::global::disable_autocorrect
 #  include osx::dock::clear_dock
   include osx::finder::show_external_hard_drives_on_desktop
   include osx::finder::show_hard_drives_on_desktop

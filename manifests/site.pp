@@ -84,7 +84,7 @@ node default {
   include iterm2::stable
   include onepassword
   include postgresapp
-  include python
+#  include python
   include nmap
   include skype
   include steam
